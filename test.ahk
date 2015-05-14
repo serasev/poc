@@ -26,6 +26,10 @@ Loop{
 	i++
 }
 
+loop,2{
+	MsgBox hi
+}
+
 MsgBox This is the end of the script.
 
 return
