@@ -24,4 +24,6 @@ Loop{
 	i++
 }
 
+MsgBox This is the end of the script.
+
 return
